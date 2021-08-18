@@ -17,7 +17,7 @@
 
 Hi 👋 Saya [Muhammad Farel Syahtiawan](https://github.com/MFarelS), Murid Di [SMPN 95 Jakarta Utara](https://www.smpn95jakarta.sch.id/).
 
-[![](https://img.shields.io/badge/Umur-13-green)](https://wa.me/6281219087237)
+[![](https://img.shields.io/badge/Umur-14-green)](https://wa.me/6281219087237)
 
 #### Dukung Saya
 ```
